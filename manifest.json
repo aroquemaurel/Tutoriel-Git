@@ -1,0 +1,111 @@
+{
+  "type" : "TUTORIAL",
+  "object" : "container",
+  "slug" : "apprendre-a-utiliser-git",
+  "title" : "Apprendre à utiliser Git",
+  "introduction" : "introduction.md",
+  "conclusion" : "conclusion.md",
+  "children" : [ {
+    "object" : "container",
+    "slug" : "les-bases-de-git",
+    "title" : "Les bases de Git",
+    "introduction" : "les-bases-de-git/introduction.md",
+    "conclusion" : "les-bases-de-git/conclusion.md",
+    "children" : [ {
+      "object" : "extract",
+      "slug" : "le-versionnement",
+      "title" : "Le versionnement",
+      "text" : "les-bases-de-git/le-versionnement.md"
+    }, {
+      "object" : "extract",
+      "slug" : "installation-et-configuration",
+      "title" : "Installation et configuration",
+      "text" : "les-bases-de-git/installation-et-configuration.md"
+    }, {
+      "object" : "extract",
+      "slug" : "les-premiers-pas",
+      "title" : "Les premiers pas",
+      "text" : "les-bases-de-git/les-premiers-pas.md"
+    }, {
+      "object" : "extract",
+      "slug" : "bien-utiliser-lhistorique",
+      "title" : "Bien utiliser l'historique",
+      "text" : "les-bases-de-git/bien-utiliser-lhistorique.md"
+    } ]
+  }, {
+    "object" : "container",
+    "slug" : "lutilisation-collaborative-de-git",
+    "title" : "L'utilisation collaborative de Git",
+    "introduction" : "lutilisation-collaborative-de-git/introduction.md",
+    "conclusion" : "lutilisation-collaborative-de-git/conclusion.md",
+    "children" : [ {
+      "object" : "extract",
+      "slug" : "restez-branches-",
+      "title" : "Restez branchés !",
+      "text" : "lutilisation-collaborative-de-git/restez-branches-.md"
+    }, {
+      "object" : "extract",
+      "slug" : "fusionner-des-modifications",
+      "title" : "Fusionner des modifications",
+      "text" : "lutilisation-collaborative-de-git/fusionner-des-modifications.md"
+    } ]
+  }, {
+    "object" : "container",
+    "slug" : "pour-aller-plus-loin",
+    "title" : "Pour aller plus loin",
+    "introduction" : "pour-aller-plus-loin/introduction.md",
+    "conclusion" : "pour-aller-plus-loin/conclusion.md",
+    "children" : [ {
+      "object" : "extract",
+      "slug" : "le-workflow-git",
+      "title" : "Le workflow Git",
+      "text" : "pour-aller-plus-loin/le-workflow-git.md"
+    }, {
+      "object" : "extract",
+      "slug" : "reecrire-son-histoire",
+      "title" : "Réécrire son histoire",
+      "text" : "pour-aller-plus-loin/reecrire-son-histoire.md"
+    }, {
+      "object" : "extract",
+      "slug" : "un-peu-de-recherche",
+      "title" : "Un peu de recherche",
+      "text" : "pour-aller-plus-loin/un-peu-de-recherche.md"
+    }, {
+      "object" : "extract",
+      "slug" : "les-sous-modules",
+      "title" : "Les sous-modules",
+      "text" : "pour-aller-plus-loin/les-sous-modules.md"
+    } ]
+  }, {
+    "object" : "container",
+    "slug" : "annexes",
+    "title" : "Annexes",
+    "introduction" : "annexes/introduction.md",
+    "conclusion" : "annexes/conclusion.md",
+    "children" : [ {
+      "object" : "extract",
+      "slug" : "references",
+      "title" : "Références",
+      "text" : "annexes/references.md"
+    }, {
+      "object" : "extract",
+      "slug" : "cheatsheet",
+      "title" : "Cheatsheet",
+      "text" : "annexes/cheatsheet.md"
+    }, {
+      "object" : "extract",
+      "slug" : "le-fichier-gitconfig",
+      "title" : "Trucs & astuces",
+      "text" : "annexes/le-fichier-gitconfig.md"
+    }, {
+      "object" : "extract",
+      "slug" : "github-et-gitlab",
+      "title" : "GIthub et Gitlab",
+      "text" : "annexes/github-et-gitlab.md"
+    } ]
+  } ],
+  "version" : 2,
+  "licence" : "CC BY",
+  "description" : "",
+  "type" : "TUTORIAL"
+}
