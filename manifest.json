@@ -1,7 +1,7 @@
 {
   "type" : "TUTORIAL",
   "object" : "container",
-  "slug" : "apprendre-a-utiliser-git",
+  "slug" : "apprendre-a-utiliser-git-1",
   "title" : "Apprendre à utiliser Git",
   "introduction" : "introduction.md",
   "conclusion" : "conclusion.md",
