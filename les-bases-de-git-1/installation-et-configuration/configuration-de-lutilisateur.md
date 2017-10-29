@@ -1,0 +1,1 @@
+.gitconfig assez basique avec nom, adresse mail.

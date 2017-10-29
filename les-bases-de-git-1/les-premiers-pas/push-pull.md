@@ -1,0 +1,1 @@
+- L’utilisateur est sur un mode « mono-utilisateur »

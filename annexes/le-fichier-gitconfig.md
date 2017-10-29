@@ -1,5 +1,0 @@
-# .gitconfig
-
-# .gitignore
-
-# git stash

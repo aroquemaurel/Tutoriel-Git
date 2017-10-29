@@ -1,3 +1,0 @@
-# Le merge
-## Résolution de conflits…
-# Le rebase

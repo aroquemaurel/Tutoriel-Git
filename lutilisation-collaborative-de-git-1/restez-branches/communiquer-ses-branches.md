@@ -1,0 +1,3 @@
+- git push
+- git fetch
+- git branch -r

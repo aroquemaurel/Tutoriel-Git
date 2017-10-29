@@ -1,0 +1,3 @@
+- Qu’est ce qu’un commit (zoli schéma)
+- Pourquoi le hash
+- Le HEAD

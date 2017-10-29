@@ -1,0 +1,3 @@
+- git branch
+- Se déplacer sur une branche, git checkout
+- Petite remarque sur le git checkout -b
