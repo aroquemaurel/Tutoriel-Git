@@ -24,14 +24,14 @@
         "text" : "les-bases-de-git-1/le-versionnement/vous-avez-dit-versionnement.md"
       }, {
         "object" : "extract",
+        "slug" : "deux-approches-differentes-du-controle-de-version",
+        "title" : "Deux approches différentes du contrôle de version",
+        "text" : "les-bases-de-git-1/le-versionnement/deux-approches-differentes-du-controle-de-version.md"
+      }, {
+        "object" : "extract",
         "slug" : "git-face-a-la-concurrence",
         "title" : "Git, face à la concurrence",
         "text" : "les-bases-de-git-1/le-versionnement/git-face-a-la-concurrence.md"
-      }, {
-        "object" : "extract",
-        "slug" : "un-systeme-distribue",
-        "title" : "Un système distribué",
-        "text" : "les-bases-de-git-1/le-versionnement/un-systeme-distribue.md"
       } ]
     }, {
       "object" : "container",
