@@ -26,7 +26,7 @@ Ils ont l'avantage d'être assez simple à apréhender et à mettre en place. En
 Les systèmes distribués quant-à-eux sont plus complexe à apréhender. Chaque membre de l'équipe peut-être vu à la fois comme un
 client et comme un serveur. Bien que par commodité ce soit systèmatiquement le cas, un serveur central n'est pas nécessaire.
 
-TODO : schéma contenant interconnexion de clients
+**TODO AR : schéma contenant interconnexion de clients**
 
 La conséquence principale de ce sytème, c'est que chaque développeur à accès à toutes les informations de versionnement directement
 sur son ordinateur. Hors connexion, ou sans accès au serveur, il est possible d'effectuer toutes les tâches présentées
@@ -37,4 +37,4 @@ l'équipe, un serveur est mis en place. Celui-ci est au centre des communication
 plupart des actions serons effectué sur le poste de l'utilisateur, lorsque celui-ci le souhaitera, il sera possible de se
 synchroniser avec le serveur afin d'être à jour.
 
-TODO : schéma contenant Serveur + clients avec lien dans deux sens, et flèches locales
+**TODO AR : schéma contenant Serveur + clients avec lien dans deux sens, et flèches locales**

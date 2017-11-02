@@ -1,4 +1,4 @@
-Avant d'apprendre à utiliser Git, il faut savoir de quoi nous parlons.
+Si vous êtes ici, c'est que vous avez décider de sauter le pas, et apprendre le fonctionnement de Git. Mais avant d'apprendre à utiliser celui-ci, il faut savoir de quoi nous parlons.
 
 La problématique de sauvegardes ou de travail collaboratif n'est pas quelque chose de nouveau. Il existe plusieurs logiciels, plus ou moins anciens, ayant pour but de palier ces problèmatiques. 
 
