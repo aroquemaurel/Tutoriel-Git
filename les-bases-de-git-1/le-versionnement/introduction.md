@@ -1,0 +1,1 @@
+Avant d'apprendre à utiliser Git, il faut savoir de quoi nous parlons. La problématique de sauvegarde ou de travail collaboratif n'est pas quelque chose de nouveau, et il existe plusieurs logiciel, plus ou moins anciens, permettant d'effectuer du contrôle de version. Nous allons voir ce qu'apporte Git par rapport à d'autres alternatives. 
