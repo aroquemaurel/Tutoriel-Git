@@ -14,7 +14,7 @@ avec le serveur central est nécessaire. Ces actions peuvent-être par exemple :
 - Obtenir les modifications d'un autre membre de l'équipe
 - Revenir à une version ultérieure
 
-Le serveur central est donc le cœur du système, et son intégrité physque doit être conservée au maximum. En effet, si celui-ci est innacessible l'équipe peut être fortement pénalisé, de plus, en dehors de toute sauvegarde, l'ensemble de l'histoire de projet se trouve sur ce serveur.
+Le serveur central est donc le cœur du système, et son intégrité physque doit être conservée au maximum. En effet, si celui-ci est innacessible l'équipe peut être fortement pénalisé, de plus, en dehors de toute sauvegarde, l'ensemble de l'histoire du projet se trouve sur ce serveur.
 
 **TODO AR : schéma contenant un serveur + N clients**
 
