@@ -74,7 +74,7 @@
       }, {
         "object" : "extract",
         "slug" : "push-pull",
-        "title" : "Push & PUll",
+        "title" : "La synchronisation avec un serveur",
         "text" : "les-bases-de-git-1/les-premiers-pas/push-pull.md"
       }, {
         "object" : "extract",
