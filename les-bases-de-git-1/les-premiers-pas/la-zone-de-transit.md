@@ -44,7 +44,7 @@ La commande `status` présente également l'avantage de proposer des solutions p
 Une fois que l'ont a compris le fonctionnement de la zone de transit, le fonctionnement du commit coule de source. Un commit peut se faire via plusieurs syntaxe différentes, mais le fonctionnement reste toujours le même : spécifier quels seront les modifications à commiter. 
 
 - `git commit` : va commiter toutes les modifications qui sont dans la zone de modifications qui seront validées. Pour utiliser cette commande directement, il faut avoir effectuer des `git add` au préalable.
-- `git commit fichier1 fichier2 …` : les seuls fichiers qui seront commités seront les fichiers en argument. Cela permet d'aller plus vite et d'effectuer le commit en une seule étape. Les fichiers en arguments doivent être suivis sous git, dans le cadre d'un nouveau fichier, il faudra avoir utilisé `git add` au préalable.
+- `git commit fichier1 fichier2 …` : les seuls fichiers qui seront commités seront les fichiers en argument. Cela permet d'aller plus vite et d'effectuer le commit en une seule étape. Les fichiers en arguments doivent être suivis sous git, c'est-à-dire ne pas être dans la 3e section de la zone de transit. Dans le cadre d'un nouveau fichier, il faudra avoir utilisé `git add` au préalable.
 - `git commit -a` : commit tous les fichiers modifiés, les seuls fichiers qui ne seront pas commités sont les fichiers non suivis. Ce commande n'est pas toujours recommandée, car en allant vite on risque de perdre le contrôle et de commiter des fichiers par erreur. À utiliser avec vigilence.
 
 Lors de l'appel à la commande `commit`, un éditeur de texte va s'ouvrir. L'éditeur dépends de votre système, sous linux cela peut être *nano* par défaut. Dans cet éditeur, il faut renseigner la description du commit, donc des modifications. Une fois le message renseigné, un simple enregistrement suffit à valider le commit.
@@ -58,7 +58,6 @@ Lors de l'appel à la commande `commit`, un éditeur de texte va s'ouvrir. L'éd
 | À noter qu'en l'absence de message de commit, le commit sera annulé.
 
 Si juste avant de faire un commit, vous souhaitez connaitre le détail des modifications effectuées sur vos fichiers, afin de savoir précisemment ce que votre commit va contenir, vous pouvez utiliser la commande `git diff [fichier]`, qui affichera les différences, soit du ou des fichiers donnés en paramètres, soit de tous les fichiers modifiés. 
-
 
 
 % TODO : je pense que je vais transformer ça en un exo : un petit énnoncé tout bte, et une solution cachée avec les résultats.
