@@ -1,0 +1,1 @@
+Maintenant que vous savez dans quoi vous vous lancez, et que le décor est planté, nous allons pouvoir entrer dans le cœur du sujet. À commencer par l'installation et la configuration de Git.

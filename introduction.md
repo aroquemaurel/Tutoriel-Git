@@ -8,7 +8,7 @@ Vous avez entendu parlé de versionnement, ou de logiciel de contrôle de versio
 
 Vous utilisez déjà un logiciel de versionnement, vous en connaissez déjà certains avantages. Mais vous avez entendu parlé de « Git », vous aimeriez connaitre ces avantages.
 
-Si vous vous retrouvez dans ces reflexions, vous êtes au bon endroit ! Dans ce tutoriel, nous allons essayer de répondre à toutes ces questions sur Git. À savoir, qu'est-ce qu'on appelle versionnement, comment retrouver une ancienne version de votre logiciel, de quelles manières peut-on travailler à plusieurs, et même des conseils pour contribuer à des projets libres ! 
+Si vous vous retrouvez dans ces réflexions, vous êtes au bon endroit ! Dans ce tutoriel, nous allons essayer de répondre à toutes ces questions sur Git. À savoir, qu'est-ce qu'on appelle versionnement, comment retrouver une ancienne version de votre logiciel, de quelles manières peut-on travailler à plusieurs, et même des conseils pour contribuer à des projets libres ! 
 
 Le but est de vous permettre d'utiliser le logiciel au
 maximum de sa puissance. Aucun pré-requis n'est nécessaire, nous allons commencer par les bases. À la fin de ce tutoriel, vous serez
