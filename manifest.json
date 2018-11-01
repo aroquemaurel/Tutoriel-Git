@@ -1,314 +1,264 @@
 {
-    "object": "container", 
-    "slug": "apprendre-a-utiliser-git", 
-    "title": "Apprendre à utiliser Git", 
-    "introduction": "introduction.md", 
-    "conclusion": "conclusion.md", 
-    "children": [
-        {
-            "object": "container", 
-            "slug": "les-bases-de-git-1", 
-            "title": "Les bases de Git", 
-            "introduction": "les-bases-de-git-1/introduction.md", 
-            "conclusion": "les-bases-de-git-1/conclusion.md", 
-            "children": [
-                {
-                    "object": "container", 
-                    "slug": "le-versionnement", 
-                    "title": "Le versionnement", 
-                    "introduction": "les-bases-de-git-1/le-versionnement/introduction.md", 
-                    "conclusion": "les-bases-de-git-1/le-versionnement/conclusion.md", 
-                    "children": [
-                        {
-                            "object": "extract", 
-                            "slug": "vous-avez-dit-versionnement", 
-                            "title": "Vous avez-dit versionnement ?", 
-                            "text": "les-bases-de-git-1/le-versionnement/vous-avez-dit-versionnement.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "git-face-a-la-concurrence", 
-                            "title": "Git, face à la concurrence", 
-                            "text": "les-bases-de-git-1/le-versionnement/git-face-a-la-concurrence.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "un-systeme-distribue", 
-                            "title": "Un système distribué", 
-                            "text": "les-bases-de-git-1/le-versionnement/un-systeme-distribue.md"
-                        }
-                    ]
-                }, 
-                {
-                    "object": "container", 
-                    "slug": "installation-et-configuration", 
-                    "title": "Installation et configuration", 
-                    "introduction": "les-bases-de-git-1/installation-et-configuration/introduction.md", 
-                    "conclusion": "les-bases-de-git-1/installation-et-configuration/conclusion.md", 
-                    "children": [
-                        {
-                            "object": "extract", 
-                            "slug": "installation-de-git", 
-                            "title": "Installation de Git", 
-                            "text": "les-bases-de-git-1/installation-et-configuration/installation-de-git.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "configuration-de-lutilisateur", 
-                            "title": "Configuration de l’utilisateur", 
-                            "text": "les-bases-de-git-1/installation-et-configuration/configuration-de-lutilisateur.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "creation-de-son-premier-depot", 
-                            "title": "Création de son premier dépot", 
-                            "text": "les-bases-de-git-1/installation-et-configuration/creation-de-son-premier-depot.md"
-                        }
-                    ]
-                }, 
-                {
-                    "object": "container", 
-                    "slug": "les-premiers-pas", 
-                    "title": "Les premiers pas", 
-                    "introduction": "les-bases-de-git-1/les-premiers-pas/introduction.md", 
-                    "conclusion": "les-bases-de-git-1/les-premiers-pas/conclusion.md", 
-                    "children": [
-                        {
-                            "object": "extract", 
-                            "slug": "le-commit", 
-                            "title": "Le commit", 
-                            "text": "les-bases-de-git-1/les-premiers-pas/le-commit.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "la-zone-de-transit", 
-                            "title": "La zone de transit", 
-                            "text": "les-bases-de-git-1/les-premiers-pas/la-zone-de-transit.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "push-pull", 
-                            "title": "Push & PUll", 
-                            "text": "les-bases-de-git-1/les-premiers-pas/push-pull.md"
-                        }
-                    ]
-                }, 
-                {
-                    "object": "container", 
-                    "slug": "bien-utiliser-lhistorique", 
-                    "title": "Bien utiliser l'historique", 
-                    "introduction": "les-bases-de-git-1/bien-utiliser-lhistorique/introduction.md", 
-                    "conclusion": "les-bases-de-git-1/bien-utiliser-lhistorique/conclusion.md", 
-                    "children": [
-                        {
-                            "object": "extract", 
-                            "slug": "afficher-lhistorique", 
-                            "title": "Afficher l’historique", 
-                            "text": "les-bases-de-git-1/bien-utiliser-lhistorique/afficher-lhistorique.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "se-deplacer-dans-lhistorique", 
-                            "title": "Se déplacer dans l’historique", 
-                            "text": "les-bases-de-git-1/bien-utiliser-lhistorique/se-deplacer-dans-lhistorique.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "supprimer-des-modifications", 
-                            "title": "Supprimer des modifications", 
-                            "text": "les-bases-de-git-1/bien-utiliser-lhistorique/supprimer-des-modifications.md"
-                        }
-                    ]
-                }
-            ]
-        }, 
-        {
-            "object": "container", 
-            "slug": "lutilisation-collaborative-de-git-1", 
-            "title": "L'utilisation collaborative de Git", 
-            "introduction": "lutilisation-collaborative-de-git-1/introduction.md", 
-            "conclusion": "lutilisation-collaborative-de-git-1/conclusion.md", 
-            "children": [
-                {
-                    "object": "container", 
-                    "slug": "restez-branches", 
-                    "title": "Restez branchés !", 
-                    "introduction": "lutilisation-collaborative-de-git-1/restez-branches/introduction.md", 
-                    "conclusion": "lutilisation-collaborative-de-git-1/restez-branches/conclusion.md", 
-                    "children": [
-                        {
-                            "object": "extract", 
-                            "slug": "quest-ce-quune-branche", 
-                            "title": "Qu’est ce qu’une branche", 
-                            "text": "lutilisation-collaborative-de-git-1/restez-branches/quest-ce-quune-branche.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "creer-sa-premiere-branche", 
-                            "title": "Créer sa première branche", 
-                            "text": "lutilisation-collaborative-de-git-1/restez-branches/creer-sa-premiere-branche.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "communiquer-ses-branches", 
-                            "title": "Communiquer ses branches", 
-                            "text": "lutilisation-collaborative-de-git-1/restez-branches/communiquer-ses-branches.md"
-                        }
-                    ]
-                }, 
-                {
-                    "object": "container", 
-                    "slug": "fusionner-des-modifications", 
-                    "title": "Fusionner des modifications", 
-                    "introduction": "lutilisation-collaborative-de-git-1/fusionner-des-modifications/introduction.md", 
-                    "conclusion": "lutilisation-collaborative-de-git-1/fusionner-des-modifications/conclusion.md", 
-                    "children": [
-                        {
-                            "object": "extract", 
-                            "slug": "le-merge", 
-                            "title": "Le merge", 
-                            "text": "lutilisation-collaborative-de-git-1/fusionner-des-modifications/le-merge.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "le-rebase", 
-                            "title": "Le rebase", 
-                            "text": "lutilisation-collaborative-de-git-1/fusionner-des-modifications/le-rebase.md"
-                        }
-                    ]
-                }
-            ]
-        }, 
-        {
-            "object": "container", 
-            "slug": "pour-aller-plus-loin-1", 
-            "title": "Pour aller plus loin", 
-            "introduction": "pour-aller-plus-loin-1/introduction.md", 
-            "conclusion": "pour-aller-plus-loin-1/conclusion.md", 
-            "children": [
-                {
-                    "object": "container", 
-                    "slug": "le-workflow-git", 
-                    "title": "Le workflow Git", 
-                    "introduction": "pour-aller-plus-loin-1/le-workflow-git/introduction.md", 
-                    "conclusion": "pour-aller-plus-loin-1/le-workflow-git/conclusion.md", 
-                    "children": []
-                }, 
-                {
-                    "object": "container", 
-                    "slug": "reecrire-son-histoire", 
-                    "title": "Réécrire son histoire", 
-                    "introduction": "pour-aller-plus-loin-1/reecrire-son-histoire/introduction.md", 
-                    "conclusion": "pour-aller-plus-loin-1/reecrire-son-histoire/conclusion.md", 
-                    "children": [
-                        {
-                            "object": "extract", 
-                            "slug": "pourquoi-devrait-on-modifier-son-historique", 
-                            "title": "Pourquoi devrait-on modifier son historique ?", 
-                            "text": "pour-aller-plus-loin-1/reecrire-son-histoire/pourquoi-devrait-on-modifier-son-historique.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "le-rebase-interactif", 
-                            "title": "Le rebase interactif", 
-                            "text": "pour-aller-plus-loin-1/reecrire-son-histoire/le-rebase-interactif.md"
-                        }
-                    ]
-                }, 
-                {
-                    "object": "container", 
-                    "slug": "un-peu-de-recherche", 
-                    "title": "Un peu de recherche", 
-                    "introduction": "pour-aller-plus-loin-1/un-peu-de-recherche/introduction.md", 
-                    "conclusion": "pour-aller-plus-loin-1/un-peu-de-recherche/conclusion.md", 
-                    "children": [
-                        {
-                            "object": "extract", 
-                            "slug": "rechercher-dans-le-code", 
-                            "title": "Rechercher dans le code", 
-                            "text": "pour-aller-plus-loin-1/un-peu-de-recherche/rechercher-dans-le-code.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "rechercher-dans-lhistorique", 
-                            "title": "Rechercher dans l’historique", 
-                            "text": "pour-aller-plus-loin-1/un-peu-de-recherche/rechercher-dans-lhistorique.md"
-                        }
-                    ]
-                }, 
-                {
-                    "object": "container", 
-                    "slug": "les-sous-modules", 
-                    "title": "Les sous-modules", 
-                    "introduction": "pour-aller-plus-loin-1/les-sous-modules/introduction.md", 
-                    "conclusion": "pour-aller-plus-loin-1/les-sous-modules/conclusion.md", 
-                    "children": []
-                }
-            ]
-        }, 
-        {
-            "object": "container", 
-            "slug": "annexes-1", 
-            "title": "Annexes", 
-            "introduction": "annexes-1/introduction.md", 
-            "conclusion": "annexes-1/conclusion.md", 
-            "children": [
-                {
-                    "object": "container", 
-                    "slug": "references", 
-                    "title": "Références", 
-                    "introduction": "annexes-1/references/introduction.md", 
-                    "conclusion": "annexes-1/references/conclusion.md", 
-                    "children": []
-                }, 
-                {
-                    "object": "container", 
-                    "slug": "cheatsheet", 
-                    "title": "Cheatsheet", 
-                    "introduction": "annexes-1/cheatsheet/introduction.md", 
-                    "conclusion": "annexes-1/cheatsheet/conclusion.md", 
-                    "children": []
-                }, 
-                {
-                    "object": "container", 
-                    "slug": "trucs-astuces", 
-                    "title": "Trucs & astuces", 
-                    "introduction": "annexes-1/trucs-astuces/introduction.md", 
-                    "conclusion": "annexes-1/trucs-astuces/conclusion.md", 
-                    "children": [
-                        {
-                            "object": "extract", 
-                            "slug": "le-fichier-gitconfig", 
-                            "title": "Le fichier .gitconfig", 
-                            "text": "annexes-1/trucs-astuces/le-fichier-gitconfig.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "ignorer-un-fichier-le-gitignore", 
-                            "title": "Ignorer un fichier, le .gitignore", 
-                            "text": "annexes-1/trucs-astuces/ignorer-un-fichier-le-gitignore.md"
-                        }, 
-                        {
-                            "object": "extract", 
-                            "slug": "mettre-des-modifications-de-cotes", 
-                            "title": "Mettre des modifications de côtés", 
-                            "text": "annexes-1/trucs-astuces/mettre-des-modifications-de-cotes.md"
-                        }
-                    ]
-                }, 
-                {
-                    "object": "container", 
-                    "slug": "github-et-gitlab", 
-                    "title": "GIthub et Gitlab", 
-                    "introduction": "annexes-1/github-et-gitlab/introduction.md", 
-                    "conclusion": "annexes-1/github-et-gitlab/conclusion.md", 
-                    "children": []
-                }
-            ]
-        }
-    ], 
-    "version": 2, 
-    "description": "", 
-    "type": "TUTORIAL", 
-    "licence": "CC BY"
+  "type" : "TUTORIAL",
+  "object" : "container",
+  "slug" : "apprendre-a-utiliser-git",
+  "title" : "Apprendre à utiliser Git",
+  "introduction" : "introduction.md",
+  "conclusion" : "conclusion.md",
+  "children" : [ {
+    "object" : "container",
+    "slug" : "les-bases-de-git-1",
+    "title" : "Les bases de Git",
+    "introduction" : "les-bases-de-git-1/introduction.md",
+    "conclusion" : "les-bases-de-git-1/conclusion.md",
+    "children" : [ {
+      "object" : "container",
+      "slug" : "le-versionnement",
+      "title" : "Le versionnement",
+      "introduction" : "les-bases-de-git-1/le-versionnement/introduction.md",
+      "conclusion" : "les-bases-de-git-1/le-versionnement/conclusion.md",
+      "children" : [ {
+        "object" : "extract",
+        "slug" : "vous-avez-dit-versionnement",
+        "title" : "Vous avez-dit gestion de version ?",
+        "text" : "les-bases-de-git-1/le-versionnement/vous-avez-dit-versionnement.md"
+      }, {
+        "object" : "extract",
+        "slug" : "deux-approches-differentes-du-controle-de-version",
+        "title" : "Deux approches différentes du contrôle de version",
+        "text" : "les-bases-de-git-1/le-versionnement/deux-approches-differentes-du-controle-de-version.md"
+      }, {
+        "object" : "extract",
+        "slug" : "git-face-a-la-concurrence",
+        "title" : "Git, face à la concurrence",
+        "text" : "les-bases-de-git-1/le-versionnement/git-face-a-la-concurrence.md"
+      } ]
+    }, {
+      "object" : "container",
+      "slug" : "installation-et-configuration",
+      "title" : "Installation et configuration",
+      "introduction" : "les-bases-de-git-1/installation-et-configuration/introduction.md",
+      "conclusion" : "les-bases-de-git-1/installation-et-configuration/conclusion.md",
+      "children" : [ {
+        "object" : "extract",
+        "slug" : "installation-de-git",
+        "title" : "Installation de Git",
+        "text" : "les-bases-de-git-1/installation-et-configuration/installation-de-git.md"
+      }, {
+        "object" : "extract",
+        "slug" : "configuration-de-lutilisateur",
+        "title" : "Configuration de l’utilisateur",
+        "text" : "les-bases-de-git-1/installation-et-configuration/configuration-de-lutilisateur.md"
+      }, {
+        "object" : "extract",
+        "slug" : "creation-de-son-premier-depot",
+        "title" : "Création de son premier dépot",
+        "text" : "les-bases-de-git-1/installation-et-configuration/creation-de-son-premier-depot.md"
+      } ]
+    }, {
+      "object" : "container",
+      "slug" : "les-premiers-pas",
+      "title" : "Les premiers pas",
+      "introduction" : "les-bases-de-git-1/les-premiers-pas/introduction.md",
+      "conclusion" : "les-bases-de-git-1/les-premiers-pas/conclusion.md",
+      "children" : [ {
+        "object" : "extract",
+        "slug" : "le-commit",
+        "title" : "Le commit",
+        "text" : "les-bases-de-git-1/les-premiers-pas/le-commit.md"
+      }, {
+        "object" : "extract",
+        "slug" : "la-zone-de-transit",
+        "title" : "La zone de transit",
+        "text" : "les-bases-de-git-1/les-premiers-pas/la-zone-de-transit.md"
+      }, {
+        "object" : "extract",
+        "slug" : "push-pull",
+        "title" : "La synchronisation avec un serveur",
+        "text" : "les-bases-de-git-1/les-premiers-pas/push-pull.md"
+      }, {
+        "object" : "extract",
+        "slug" : "exercice",
+        "title" : "Exercice",
+        "text" : "les-bases-de-git-1/les-premiers-pas/exercice.md"
+      } ]
+    }, {
+      "object" : "container",
+      "slug" : "bien-utiliser-lhistorique",
+      "title" : "Bien utiliser l'historique",
+      "introduction" : "les-bases-de-git-1/bien-utiliser-lhistorique/introduction.md",
+      "conclusion" : "les-bases-de-git-1/bien-utiliser-lhistorique/conclusion.md",
+      "children" : [ {
+        "object" : "extract",
+        "slug" : "afficher-lhistorique",
+        "title" : "Afficher l’historique",
+        "text" : "les-bases-de-git-1/bien-utiliser-lhistorique/afficher-lhistorique.md"
+      }, {
+        "object" : "extract",
+        "slug" : "se-deplacer-dans-lhistorique",
+        "title" : "Se déplacer dans l’historique",
+        "text" : "les-bases-de-git-1/bien-utiliser-lhistorique/se-deplacer-dans-lhistorique.md"
+      }, {
+        "object" : "extract",
+        "slug" : "supprimer-des-modifications",
+        "title" : "Supprimer des modifications",
+        "text" : "les-bases-de-git-1/bien-utiliser-lhistorique/supprimer-des-modifications.md"
+      } ]
+    } ]
+  }, {
+    "object" : "container",
+    "slug" : "lutilisation-collaborative-de-git-1",
+    "title" : "L'utilisation collaborative de Git",
+    "introduction" : "lutilisation-collaborative-de-git-1/introduction.md",
+    "conclusion" : "lutilisation-collaborative-de-git-1/conclusion.md",
+    "children" : [ {
+      "object" : "container",
+      "slug" : "restez-branches",
+      "title" : "Restez branchés !",
+      "introduction" : "lutilisation-collaborative-de-git-1/restez-branches/introduction.md",
+      "conclusion" : "lutilisation-collaborative-de-git-1/restez-branches/conclusion.md",
+      "children" : [ {
+        "object" : "extract",
+        "slug" : "quest-ce-quune-branche",
+        "title" : "Qu’est ce qu’une branche",
+        "text" : "lutilisation-collaborative-de-git-1/restez-branches/quest-ce-quune-branche.md"
+      }, {
+        "object" : "extract",
+        "slug" : "creer-sa-premiere-branche",
+        "title" : "Créer sa première branche",
+        "text" : "lutilisation-collaborative-de-git-1/restez-branches/creer-sa-premiere-branche.md"
+      }, {
+        "object" : "extract",
+        "slug" : "communiquer-ses-branches",
+        "title" : "Communiquer ses branches",
+        "text" : "lutilisation-collaborative-de-git-1/restez-branches/communiquer-ses-branches.md"
+      } ]
+    }, {
+      "object" : "container",
+      "slug" : "fusionner-des-modifications",
+      "title" : "Fusionner des modifications",
+      "introduction" : "lutilisation-collaborative-de-git-1/fusionner-des-modifications/introduction.md",
+      "conclusion" : "lutilisation-collaborative-de-git-1/fusionner-des-modifications/conclusion.md",
+      "children" : [ {
+        "object" : "extract",
+        "slug" : "le-merge",
+        "title" : "Le merge",
+        "text" : "lutilisation-collaborative-de-git-1/fusionner-des-modifications/le-merge.md"
+      }, {
+        "object" : "extract",
+        "slug" : "le-rebase",
+        "title" : "Le rebase",
+        "text" : "lutilisation-collaborative-de-git-1/fusionner-des-modifications/le-rebase.md"
+      } ]
+    } ]
+  }, {
+    "object" : "container",
+    "slug" : "pour-aller-plus-loin-1",
+    "title" : "Pour aller plus loin",
+    "introduction" : "pour-aller-plus-loin-1/introduction.md",
+    "conclusion" : "pour-aller-plus-loin-1/conclusion.md",
+    "children" : [ {
+      "object" : "container",
+      "slug" : "le-workflow-git",
+      "title" : "Le workflow Git",
+      "introduction" : "pour-aller-plus-loin-1/le-workflow-git/introduction.md",
+      "conclusion" : "pour-aller-plus-loin-1/le-workflow-git/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "reecrire-son-histoire",
+      "title" : "Réécrire son histoire",
+      "introduction" : "pour-aller-plus-loin-1/reecrire-son-histoire/introduction.md",
+      "conclusion" : "pour-aller-plus-loin-1/reecrire-son-histoire/conclusion.md",
+      "children" : [ {
+        "object" : "extract",
+        "slug" : "pourquoi-devrait-on-modifier-son-historique",
+        "title" : "Pourquoi devrait-on modifier son historique ?",
+        "text" : "pour-aller-plus-loin-1/reecrire-son-histoire/pourquoi-devrait-on-modifier-son-historique.md"
+      }, {
+        "object" : "extract",
+        "slug" : "le-rebase-interactif",
+        "title" : "Le rebase interactif",
+        "text" : "pour-aller-plus-loin-1/reecrire-son-histoire/le-rebase-interactif.md"
+      } ]
+    }, {
+      "object" : "container",
+      "slug" : "un-peu-de-recherche",
+      "title" : "Un peu de recherche",
+      "introduction" : "pour-aller-plus-loin-1/un-peu-de-recherche/introduction.md",
+      "conclusion" : "pour-aller-plus-loin-1/un-peu-de-recherche/conclusion.md",
+      "children" : [ {
+        "object" : "extract",
+        "slug" : "rechercher-dans-le-code",
+        "title" : "Rechercher dans le code",
+        "text" : "pour-aller-plus-loin-1/un-peu-de-recherche/rechercher-dans-le-code.md"
+      }, {
+        "object" : "extract",
+        "slug" : "rechercher-dans-lhistorique",
+        "title" : "Rechercher dans l’historique",
+        "text" : "pour-aller-plus-loin-1/un-peu-de-recherche/rechercher-dans-lhistorique.md"
+      } ]
+    }, {
+      "object" : "container",
+      "slug" : "les-sous-modules",
+      "title" : "Les sous-modules",
+      "introduction" : "pour-aller-plus-loin-1/les-sous-modules/introduction.md",
+      "conclusion" : "pour-aller-plus-loin-1/les-sous-modules/conclusion.md",
+      "children" : [ ]
+    } ]
+  }, {
+    "object" : "container",
+    "slug" : "annexes-1",
+    "title" : "Annexes",
+    "introduction" : "annexes-1/introduction.md",
+    "conclusion" : "annexes-1/conclusion.md",
+    "children" : [ {
+      "object" : "container",
+      "slug" : "references",
+      "title" : "Références",
+      "introduction" : "annexes-1/references/introduction.md",
+      "conclusion" : "annexes-1/references/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "cheatsheet",
+      "title" : "Cheatsheet",
+      "introduction" : "annexes-1/cheatsheet/introduction.md",
+      "conclusion" : "annexes-1/cheatsheet/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "trucs-astuces",
+      "title" : "Trucs & astuces",
+      "introduction" : "annexes-1/trucs-astuces/introduction.md",
+      "conclusion" : "annexes-1/trucs-astuces/conclusion.md",
+      "children" : [ {
+        "object" : "extract",
+        "slug" : "le-fichier-gitconfig",
+        "title" : "Le fichier .gitconfig",
+        "text" : "annexes-1/trucs-astuces/le-fichier-gitconfig.md"
+      }, {
+        "object" : "extract",
+        "slug" : "ignorer-un-fichier-le-gitignore",
+        "title" : "Ignorer un fichier, le .gitignore",
+        "text" : "annexes-1/trucs-astuces/ignorer-un-fichier-le-gitignore.md"
+      }, {
+        "object" : "extract",
+        "slug" : "mettre-des-modifications-de-cotes",
+        "title" : "Mettre des modifications de côtés",
+        "text" : "annexes-1/trucs-astuces/mettre-des-modifications-de-cotes.md"
+      } ]
+    }, {
+      "object" : "container",
+      "slug" : "github-et-gitlab",
+      "title" : "GIthub et Gitlab",
+      "introduction" : "annexes-1/github-et-gitlab/introduction.md",
+      "conclusion" : "annexes-1/github-et-gitlab/conclusion.md",
+      "children" : [ ]
+    } ]
+  } ],
+  "version" : 2,
+  "licence" : "CC BY",
+  "description" : "",
+  "type" : "TUTORIAL"
 }
