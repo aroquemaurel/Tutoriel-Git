@@ -6,6 +6,7 @@ simultanément sur un même projet. La gestion de version permet d'éviter de s'
 Enfin, un projet peut-être ancien. On peut avoir besoin de parcourir son histoire : qui a rédigé cette fonctionnalité
 ? À quelle date ? À-t-elle été modifiée depuis ? Chaque modification du code source comporte un message du développeur, son nom ainsi que la date à laquelle la modification à eu lieue. Il est alors aisé de connaître l'histoire d'un projet.
 
-TODO : schéma contenant un historique simple à comprendre
+Si je regarde le projet [Zeste de Savoir](https://github.com/zestedesavoir/zds-site/commits/dev), l'historique peut-ressembler à l'image ci-dessous. Comme on peut le voir, on à un petit descriptif de la modification, la date à laquelle elle a été faite, et l'auteur de la modification.
 
+![Exemple d'historique d'un projet](img/historique.png)
 
